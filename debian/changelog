@@ -1,3 +1,9 @@
+ruby2.0 (2.0.0.458-1rubygems1) precise; urgency=low
+
+  * Bump to upstream patch 458
+
+ -- Sam Kottler <skottler@fedoraproject.org>  Wed, 19 Mar 2014 20:21:31 +0000
+
 ruby2.0 (2.0.0.353-1rubygems1) precise; urgency=low
 
   * Initial build of Ruby 2.0 for RubyGems.org
