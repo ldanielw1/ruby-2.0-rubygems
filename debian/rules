@@ -41,6 +41,7 @@ override_dh_auto_clean:
 	dh_auto_clean
 	$(RM) -r .ext
 	$(RM) -r doc/capi
+	$(RM) Makefile.old
 
 override_dh_autoreconf_clean:
 	dh_autoreconf_clean

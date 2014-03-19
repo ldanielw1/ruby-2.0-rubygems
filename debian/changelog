@@ -1,24 +1,5 @@
-ruby2.0 (2.0.0.353-1bbox2) precise; urgency=low
+ruby2.0 (2.0.0.353-1rubygems1) precise; urgency=low
 
-  * Fixed ruby2.0 dependency on libruby2.0
+  * Initial build of Ruby 2.0 for RubyGems.org
 
- -- John Leach <john@brightbox.co.uk>  Tue, 26 Nov 2013 23:27:14 +0000
-
-ruby2.0 (2.0.0.353-1bbox1) precise; urgency=high
-
-  * New upstream release
-  * Fixes CVE-2013-4164
-
- -- John Leach <john@brightbox.co.uk>  Sat, 23 Nov 2013 00:03:00 +0000
-
-ruby2.0 (2.0.0.195-2bbox1) precise; urgency=low
-
-  * New upstream release
-
- -- John Leach <john@brightbox.co.uk>  Mon, 27 May 2013 22:48:52 +0100
-
-ruby2.0 (2.0.0.0-1) unstable; urgency=low
-
-  * Initial release (Closes: #697703)
-
- -- Antonio Terceiro <terceiro@debian.org>  Mon, 07 Jan 2013 14:48:51 -0300
+ -- Sam Kottler <skottler@fedoraproject.org>  Wed, 19 Mar 2014 17:05:43 +0000
